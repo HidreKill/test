@@ -1,0 +1,40 @@
+.bir{
+    background-color: rgb(134, 173, 246);
+    border: 3px solid red;
+    border-radius: 30px;
+    text-align: center;
+}
+.ikki{
+    color: red;
+}
+.uch{
+    color: rgb(0, 154, 0);
+}
+.tort{
+    color: yellow;
+}
+.besh{
+    color: grey;
+}
+.olti{
+    text-align: center;
+    background-color: yellow;
+    width: 60%;
+}
+.yetti{
+    width: 60%;
+    font-size: 12px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: rgb(3, 140, 3);
+}
+.purple{
+    background-color: rgb(171, 80, 255);
+}
+.knopka{
+    background-color: rgb(0, 252, 8);
+    width: 20%;
+}
